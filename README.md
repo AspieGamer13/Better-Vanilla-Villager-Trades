@@ -12,9 +12,7 @@ See the chart further down for which Minecraft versions each datapack version is
 Installation (This assumes you have the VillagerConfig mod installed):
      Put the datapack in your "/AppData/Roaming/.minecraft/saves/[Your World Here]/datapack" folder.
      ***DO NOT put the datapack in your "/AppData/Roaming/.minecraft/resourcepacks" folder.***
-     
      If you changed where Minecraft loads from, find that location and use that "saves" folder.
-     
      For servers, put it in your world folder that matches where your server.properties file says.
 
 
