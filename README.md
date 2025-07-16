@@ -1,7 +1,7 @@
 # Better-Vanilla-Villager-Trades
 
-Better Vanilla Villager Trades requires the VillagerConfig Mod (4.4.1 or later) to work\
-     This datapack will work with some older versions of the mod, but some features will be broken
+Better Vanilla Villager Trades requires the VillagerConfig Mod (4.4.4 or later) to work\
+     This datapack may work with some older versions of the mod, but some features will be broken
 
 VillagerConfig: https://modrinth.com/mod/villagerconfig \
 This Datapack: https://modrinth.com/datapack/better-vanilla-villager-trades
@@ -27,6 +27,6 @@ You may ONLY modify elements of this pack FOR PERSONAL USE.
 
 
 ### Datapack version reference:
-|  Datapack  |  VillagerConfig  |  Minecraft                         |
-|:-----------|:-----------------|:-----------------------------------|
-|1.0.0       |4.4.1 - 4.4.5     |1.21 - 1.21.1 & 1.21.4 - 1.21.7     |
+|  Datapack  |  VillagerConfig  |  Minecraft       |
+|:-----------|:-----------------|:-----------------|
+|1.0.0       |4.4.4 - 4.4.5     |1.21.5 - 1.21.7   |
