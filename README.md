@@ -29,4 +29,5 @@ You may ONLY modify elements of this pack FOR PERSONAL USE.
 ### Datapack version reference:
 |  Datapack  |  VillagerConfig  |  Minecraft       |
 |:-----------|:-----------------|:-----------------|
-|1.0.0       |4.4.4 - 4.4.5     |1.21.5 - 1.21.7   |
+|1.0.0       |4.4.4 - 4.4.8     |1.21.5 - 1.21.8   |
+|1.1.0       |4.4.7 - 4.4.8     |1.21.9            |
